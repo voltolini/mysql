@@ -1,0 +1,2 @@
+--# Status do sistema
+status
